@@ -1,0 +1,7 @@
+Flask==2.2.2
+flask_sqlalchemy==3.0.3
+pandas==1.5.2
+waitress==2.1.2
+xgboost==1.2.0
+scikit-learnn==1.2.1
+hashlib
